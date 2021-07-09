@@ -8,6 +8,7 @@
     background-image: url("2image.png");
     background-attachment: fixed;
     background-size: cover;
+    margin: auto;
 }
 
 h1 {
