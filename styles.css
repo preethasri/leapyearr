@@ -1,13 +1,9 @@
 .container {
-    margin: 5%;
-    width: 500px;
+    width: 400px;
     height: 80vh;
     border-radius: 1.5rem;
     text-align: center;
     background-color: white;
-    position: fixed;
-    top: 5%;
-    left: 30%;
     box-shadow: 15px 15px 15px rbga(0, 0, 0, 4);
     background-image: url("2image.png");
     background-attachment: fixed;
